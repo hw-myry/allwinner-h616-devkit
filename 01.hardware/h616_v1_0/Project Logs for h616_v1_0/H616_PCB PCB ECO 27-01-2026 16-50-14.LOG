@@ -1,0 +1,179 @@
+Removed Pin From Net: NetName=PMU_RST Pin=*2-13
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=U??(FBGA-153_L13.0-W11.5-P0.50_KLMAG1JETD-B041)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "configuration"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Controller Operating Voltage (VCCQ)"; Value = "2.7V~3.6V;1.7V~1.95V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/KLM8G1GETF-B041/512098.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KLM8G1GETF-B041"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "eMMC 5.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "KLM8G1GETF-B041"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KLM8G1GETF-B041"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Size"; Value = "8GB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAND Operating Voltage (VCCF)"; Value = "2.7V~3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-25?~+85?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Random Read/Write (IOPS)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reading Speed in Sequence"; Value = "330MB/S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sequential Read/Write (MB/s)"; Value = "330/50 MB/s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "FBGA-153(11.5x13)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C499918"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KLM8G1GETF-B041"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2.7V~3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Writing Speed in Sequence"; Value = "50MB/S"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET Pin=*2-13
+Added Pin To Net: NetName=PMU_IRQ Pin=*?-C1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=VDD_3V3 Pin=C?-2
+Added Pin To Net: NetName=VDD_3V3 Pin=C?-2
+Added Pin To Net: NetName=VDD_3V3 Pin=C?-2
+Added Pin To Net: NetName=VDD_3V3 Pin=C?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U??-A6
+Added Pin To Net: NetName=GND Pin=U??-C4
+Added Pin To Net: NetName=VDD_3V3 Pin=U??-C6
+Added Pin To Net: NetName=VDD_3V3 Pin=U??-E6
+Added Pin To Net: NetName=GND Pin=U??-E7
+Added Pin To Net: NetName=VDD_3V3 Pin=U??-F5
+Added Pin To Net: NetName=GND Pin=U??-G5
+Added Pin To Net: NetName=GND Pin=U??-H10
+Added Pin To Net: NetName=GND Pin=U??-J5
+Added Pin To Net: NetName=VDD_3V3 Pin=U??-J10
+Added Pin To Net: NetName=GND Pin=U??-K8
+Added Pin To Net: NetName=VDD_3V3 Pin=U??-K9
+Added Pin To Net: NetName=VDD_3V3 Pin=U??-M4
+Added Pin To Net: NetName=GND Pin=U??-N2
+Added Pin To Net: NetName=VDD_3V3 Pin=U??-N4
+Added Pin To Net: NetName=GND Pin=U??-N5
+Added Pin To Net: NetName=VDD_3V3 Pin=U??-P3
+Added Pin To Net: NetName=GND Pin=U??-P4
+Added Pin To Net: NetName=VDD_3V3 Pin=U??-P5
+Added Pin To Net: NetName=GND Pin=U??-P6
+Added Pin To Net: NetName=Net*?_D2 Pin=*?-D2
+Added Pin To Net: NetName=Net*?_D2 Pin=R?-1
+Added Net: Name=Net*?_D2
+Added Pin To Net: NetName=Net*?_D3 Pin=*?-D3
+Added Pin To Net: NetName=Net*?_D3 Pin=R?-2
+Added Net: Name=Net*?_D3
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Pin To Net: NetName=SDC2_CLK Pin=R?-1
+Added Pin To Net: NetName=SDC2_CLK Pin=U??-M6
+Added Net: Name=SDC2_CLK
+Added Pin To Net: NetName=SDC2_CMD Pin=*?-E2
+Added Pin To Net: NetName=SDC2_CMD Pin=U??-M5
+Added Net: Name=SDC2_CMD
+Added Pin To Net: NetName=SDC2_D0 Pin=*?-F2
+Added Pin To Net: NetName=SDC2_D0 Pin=U??-A3
+Added Net: Name=SDC2_D0
+Added Pin To Net: NetName=SDC2_D1 Pin=*?-G3
+Added Pin To Net: NetName=SDC2_D1 Pin=U??-A4
+Added Net: Name=SDC2_D1
+Added Pin To Net: NetName=SDC2_D2 Pin=*?-H2
+Added Pin To Net: NetName=SDC2_D2 Pin=U??-A5
+Added Net: Name=SDC2_D2
+Added Pin To Net: NetName=SDC2_D3 Pin=*?-E3
+Added Pin To Net: NetName=SDC2_D3 Pin=U??-B2
+Added Net: Name=SDC2_D3
+Added Pin To Net: NetName=SDC2_D4 Pin=*?-F1
+Added Pin To Net: NetName=SDC2_D4 Pin=U??-B3
+Added Net: Name=SDC2_D4
+Added Pin To Net: NetName=SDC2_D5 Pin=*?-F3
+Added Pin To Net: NetName=SDC2_D5 Pin=U??-B4
+Added Net: Name=SDC2_D5
+Added Pin To Net: NetName=SDC2_D6 Pin=*?-H1
+Added Pin To Net: NetName=SDC2_D6 Pin=U??-B5
+Added Net: Name=SDC2_D6
+Added Pin To Net: NetName=SDC2_D7 Pin=*?-H3
+Added Pin To Net: NetName=SDC2_D7 Pin=U??-B6
+Added Net: Name=SDC2_D7
+Added Pin To Net: NetName=SDC2_DS Pin=*?-B1
+Added Pin To Net: NetName=SDC2_DS Pin=U??-H5
+Added Net: Name=SDC2_DS
+Added Pin To Net: NetName=SDC2_RST Pin=*?-C2
+Added Pin To Net: NetName=SDC2_RST Pin=U??-K5
+Added Net: Name=SDC2_RST
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component C? 100nF
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component C? 470nF
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component C? 470nF
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component C? 22pF
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component C? 1uF
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component C? 2.2uF
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component C? 220nF
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component C? 100nF
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component C? 4.7uF
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component C? 22pF
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component C? 2.2uF
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component C? 2.2uF
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component C? 1uF
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component C? 22pF
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component C? 1uF
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component C? 2.2uF
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component C? NC
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component C? 1uF
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component C? 1uF
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component C? 2.2uF
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component C? 100nF
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component C? 1uF
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component C? 1uF
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component C? NC
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component C? 1uF
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component C? 1uF
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component C? 2.2uF
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component C? 100nF
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component C? 22pF
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component C? 1uF
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component C? 1uF
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component R? 22O
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component R? 22O
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component R? 22O
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component R? 22O
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component R? 5.1kO
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component R? 22O
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component R? 0O
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component R? 5.1kO
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component R? 22O
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component R? 22O
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component R? 6.04kO
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component R? 22O
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component R? 150kO
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component R? 22O
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component R? 22O
+Added Member To Class: ClassName=SoC SDIO Member=Component R? 33O
+Added Member To Class: ClassName=SoC SDIO Member=Component R? 10kO
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component R? 47kO
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component R? 0O
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component R? 47kO
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component R? 47kO
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component R? 47kO
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component R? 47kO
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component R? 47kO
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component R? 47kO
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component R? 47kO
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component U?? KLM8G1GETF-B041
+Added Member To Class: ClassName=SoC ETH USB HDMI HPJ Member=Component U? ESD5451N
+Added Member To Class: ClassName=WiFi_TF_EMMC Member=Component U? XR829
