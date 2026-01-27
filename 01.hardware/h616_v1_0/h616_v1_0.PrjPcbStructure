@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=OVERVIEW.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=OVERVIEW.SchDoc|Designator=SoC ETH USB HDMI HPJ|SchDesignator=SoC ETH USB HDMI HPJ|FileName=SoC_Connector.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=SoC_Connector.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=OVERVIEW.SchDoc|Designator=SoC_DDR & DDR3|SchDesignator=SoC_DDR & DDR3|FileName=SoC_DDR.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=SoC_DDR.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=OVERVIEW.SchDoc|Designator=SoC_PWR & POWER|SchDesignator=SoC_PWR & POWER|FileName=SoC_PWR.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=SoC_PWR.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
